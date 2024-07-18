@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="">
+  <link rel="icon" href="_media/crest_black.svg">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <!-- Auto system colour, no-one changes from preference... -->
+  <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+
+  <style>
+    :root {
+
+      /* Change the theme color hue (0-360) */
+      --theme-hue: 325;
+      --heading-h2-border-style: none;
+    }
+  </style>
+
+</head>
+<body>
+  <div data-app id="app">Loading...</div>
+  <style>
+  
+    /* Fix issue on mobile devices where a custom cover image goes off the screen. */
+    section.cover.show {
+        height: 100%;
+    }
+  </style>
+  <script>
+    var repoURL = "https://github.com/PandiTAKTAK/Template-Docsify";
+    var pagePrefix = "Docsify Template";
+
+    // Docsify Configuration
+    window.$docsify = {
+      name: pagePrefix,
+	  repo: repoURL,
+      customPageTitle: {
+        prefix:     pagePrefix,
+        suffix:     false,
+        separator:   '-',
+      },
+      subMaxLevel: 3,
+      loadNavbar: false,
+      coverpage: true,
+      onlyCover: false,
+      loadSidebar: true,
+      auto2top: true,
+
+      githubEditLink: {
+      repo: repoURL,
+      branch: "trunk",
+      },
+      footer: {
+        copy: '&copy; James Marsden, 2024<br />',
+        auth: 'TAKTAK - taktak.co.uk',
+        pre: '<hr />',
+        style: 'text-align: right;',
+        class: 'footer',
+      },
+      themeable: {
+          readyTransition : true, // default
+          responsiveTables: true  // default
+      },
+      tabs: {
+        tabComments: false,
+      },
+      'flexible-alerts': {
+        style: 'callout',
+      },
+      pagination: {
+        previousText: 'PREVIOUS',
+        nextText: 'NEXT',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+    }
+  </script>
+
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- docsify-themeable -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
+  <!-- Text search -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <!-- Title config -->
+  <script src="//cdn.jsdelivr.net/npm/@sujaykumarh/docsify-plugin-title@2.x/dist/plugin.min.js"></script>
+  <!-- Pagination plugin -->
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- Footer -->
+  <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+  <!-- Edit in GitHub -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-github-edit-link@1/dist/github-edit-link.min.js"></script>
+
+  <!-- Tip / note blocks -->
+  <script src="//unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <!-- docsify-tabs (latest v1.x.x) -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <!-- Zoom image -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <!-- Code copy -->
+  <script src="//unpkg.com/docsify-copy-code@2"></script>
+  <!-- Syntax highlighting.-->
+  <script defer src="//unpkg.com/prismjs@1/components/prism-markdown.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <!-- Terminal block -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-terminal-block@1.0.3"></script>
+  
+</body>
+</html>
