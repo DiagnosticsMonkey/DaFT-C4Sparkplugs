@@ -75,7 +75,7 @@ int main()
 `|info|`, `|warning|`, `|error|`, `$|info|`, `$|warning|`, `$|error|`,
 
 ```terminal
-|info|TAKTAK@DELTAOMNICHROM5 MINGW64 /C/git/Template-Docsify (develop)
+|info|TAKTAK@DELTAOMNICHROM5 MINGW64 /C/git/daft-embedded-c (develop)
 $|success| git push
 Enumerating objects: 13, done.
 Counting objects: 100% (13/13), done.

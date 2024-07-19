@@ -2,11 +2,14 @@
 
 #  DaFT : Embedded C <small>0.1</small>
 
->  Docsify template from TAKTAK
+>  Diagnostics and Friends Teach : Embedded C
 
 - :shit:
-- :angry:
-- [Emoji list](https://gist.github.com/rxaviers/7360908) :eyes:
+- :tea: or :beer:
+- :computer:
+- :see_no_evil: :hear_no_evil: :speak_no_evil:
+
+<!-- [Emoji list](https://gist.github.com/rxaviers/7360908) -->
 
 [GitHub](https://github.com/DiagnosticsMonkey)
 [Getting Started](/README)
