@@ -10,8 +10,8 @@ The main aim of this course is to build you up to be confident at tackling probl
 
 The following books may also be useful when trying to follow this material.
 
-- [K&R C Book](https://www.amazon.co.uk/C-Programming-Language-2nd/dp/0131103628)
-- [D&D C Book](https://www.amazon.co.uk/How-Program-Studies-Applications-Programming-dp-1292437073/dp/1292437073/ref=dp_ob_title_bk)
+- [K&R C Book](https://www.amazon.co.uk/C-Programming-Language-2nd/dp/0131103628) - From the creators of C.
+- [D&D C Book](https://www.amazon.co.uk/How-Program-Studies-Applications-Programming-dp-1292437073/dp/1292437073/ref=dp_ob_title_bk) - From some people who are just good at writing text books.
 
 ## Tools
 
