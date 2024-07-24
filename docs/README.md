@@ -4,7 +4,7 @@ So you've decided to learn the world of Embedded C! A brave move, well hopefully
 
 ## What does this cover?
 
-The main aim of this course is to build you up to be confident at tackling problems that require you to either modify someone elses code or to write completely new . But the main focus is being given problems and trying to find solutions. The Starter Series is intended as exactly that, a starting point for those who are completely new to C or want a refresher on certain topics.
+The main aim of this course is to build you up to be confident at tackling problems that require you to either modify someone elses code or to write your own thing from scratch!!! But the main focus is being given missions and developing solutions. The Starter Series is intended as exactly that, a starting point for those who are completely new to C or want a refresher on certain topics.
 
 ## Books
 
