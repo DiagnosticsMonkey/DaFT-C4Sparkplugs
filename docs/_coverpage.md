@@ -1,6 +1,6 @@
 ![logo](_media/crest_black.svg)
 
-#  DaFT : Embedded C <small>0.1</small>
+#  DaFT : C for Sparkplugs <small>0.1</small>
 
 >  Diagnostics and Friends Teach : Embedded C
 
@@ -11,5 +11,5 @@
 
 <!-- [Emoji list](https://gist.github.com/rxaviers/7360908) -->
 
-[GitHub](https://github.com/DiagnosticsMonkey)
+[GitHub](https://github.com/DiagnosticsMonkey/DaFT-C4Sparkplugs)
 [Getting Started](/README)
