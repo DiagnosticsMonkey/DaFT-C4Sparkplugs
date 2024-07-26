@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DaFT : C for Sparkplugs
 
 So you've decided to learn the world of Embedded C! A brave move, well hopefully this will be able to teach you something and get you started on that journey.
@@ -37,8 +36,3 @@ TBD - (LPC55 Series)
 ### Microchip Dev Kits
 
 TBD - SAMD20/21, SAMC range
-=======
-# Headline
-
-> An awesome project.
->>>>>>> 3b197d3 (Initial Commit)
