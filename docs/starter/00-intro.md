@@ -4,4 +4,4 @@ Welcome to the Starter Series, here we are going to go through some of the funda
 
 ## Topics
 
-- [What is C?](../IN-CONSTRUCTION.md)
+- [What is C?](IN-CONSTRUCTION.md)
