@@ -1,4 +1,4 @@
-# DaFT : Embedded C
+# DaFT : C for Sparkplugs
 
 So you've decided to learn the world of Embedded C! A brave move, well hopefully this will be able to teach you something and get you started on that journey.
 
